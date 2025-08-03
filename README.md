@@ -67,6 +67,7 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
     * **Home Page:**
       https://github.com/shivanisyal09/superstore_report/blob/main/Superstore_Dashboard.png
     * **Summary Page:**
+      https://github.com/shivanisyal09/superstore_report/blob/main/Summary_Page.png
     * **Sales Analysis:**
     * **Freight & Sales - Trends:**
     * **Sales - Geo Maps:**
