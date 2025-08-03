@@ -1,4 +1,4 @@
-# Global Superstore: Elevating Sales & Operations Through Data-Driven Insights
+[# Global Superstore: Elevating Sales & Operations Through Data-Driven Insights
 
 This repository features a comprehensive Power BI dashboard crafted to deliver deep analytical insights into the Global Superstore's extensive sales and operational data. It represents a powerful solution for transforming raw transactional information into a dynamic, actionable intelligence hub.
 
@@ -79,3 +79,4 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
       https://github.com/shivanisyal09/superstore_report/blob/main/EDA.png
     * **Self Serve Analysis:**
       https://github.com/shivanisyal09/superstore_report/blob/main/Self_Serve_Analysis.png
+](https://github.com/shivanisyal09/superstore_report/blob/main/Self_Serve_Analysis.png)
