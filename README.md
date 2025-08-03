@@ -71,5 +71,6 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
     * **Sales Analysis:**
     * **Freight & Sales - Trends:**
     * **Sales - Geo Maps:**
+      https://github.com/shivanisyal09/superstore_report/blob/main/Sales%20-%20Geo_Maps.png
     * **EDA:**
     * **Self Serve Analysis:**
