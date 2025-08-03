@@ -62,3 +62,12 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
     * **"Where are our most successful geographical markets in terms of sales and profitability, and which areas represent strategic growth opportunities?"** (Illustrated by Sales by Region maps and Profit Ratio by State visuals)
     * **"How do our distinct customer segments contribute to overall sales, and how can we better cater to their needs?"** (Explored via Sales by Customer Segment charts)
     * **"Are our shipping operations cost-efficient, and how do different shipping modes influence our bottom line?"** (Analyzed through Freight & Sales Analysis visuals)
+
+* **Tangible Business Impact:**
+    * **Home Page:**
+    * **Summary Page:**
+    * **Sales Analysis:**
+    * **Freight & Sales - Trends:**
+    * **Sales - Geo Maps:**
+    * **EDA:**
+    * **Self Serve Analysis:**
