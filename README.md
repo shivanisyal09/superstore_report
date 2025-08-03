@@ -77,3 +77,4 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
     * **EDA:**
       https://github.com/shivanisyal09/superstore_report/blob/main/EDA.png
     * **Self Serve Analysis:**
+      https://github.com/shivanisyal09/superstore_report/blob/main/Self_Serve_Analysis.png
