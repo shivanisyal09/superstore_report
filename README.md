@@ -65,6 +65,7 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
 
 * **Tangible Business Impact:**
     * **Home Page:**
+      https://github.com/shivanisyal09/superstore_report/blob/main/Superstore_Dashboard.png
     * **Summary Page:**
     * **Sales Analysis:**
     * **Freight & Sales - Trends:**
