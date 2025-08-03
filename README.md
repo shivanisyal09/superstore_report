@@ -63,7 +63,7 @@ This repository features a comprehensive Power BI dashboard crafted to deliver d
     * **"How do our distinct customer segments contribute to overall sales, and how can we better cater to their needs?"** (Explored via Sales by Customer Segment charts)
     * **"Are our shipping operations cost-efficient, and how do different shipping modes influence our bottom line?"** (Analyzed through Freight & Sales Analysis visuals)
 
-  ###Screenshots / Demos:
+  ### Screenshots / Demos:
   Shows what the dashboard looks like. Example:
     * **Home Page:**
       https://github.com/shivanisyal09/superstore_report/blob/main/Superstore_Dashboard.png
